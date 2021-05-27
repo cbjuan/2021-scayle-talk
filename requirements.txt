@@ -1,0 +1,5 @@
+spacy==2.3.5
+fastai>=2.2.5
+qiskit
+streamlit
+notebook
