@@ -20,7 +20,7 @@ Activate environment
 
 ### Jupyter
 
-`./script/run-jupyter.sh`
+`./scripts/run-jupyter.sh`
 
 ### FastAI
 
